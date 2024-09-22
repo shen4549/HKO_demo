@@ -53,3 +53,5 @@ I used robotframework in past projects.
 3. python3 task2_web_endpoint.py
 
 
+## Others
+There is some docs about how to design I wrote 4 years ago for bilibili app automation.
